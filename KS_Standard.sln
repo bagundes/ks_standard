@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ks_standard", "ks_standard\ks_standard.csproj", "{342ADD58-0F81-443B-933F-C37A33A4B918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteApp1", "TesteApp1\TesteApp1.csproj", "{80157237-FA39-4D08-A026-6842C2443285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ks_sb1", "ks_sb1\ks_sb1.csproj", "{80EE15AD-82E0-4823-AE53-4765C4FA8FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{342ADD58-0F81-443B-933F-C37A33A4B918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342ADD58-0F81-443B-933F-C37A33A4B918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342ADD58-0F81-443B-933F-C37A33A4B918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342ADD58-0F81-443B-933F-C37A33A4B918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80157237-FA39-4D08-A026-6842C2443285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80157237-FA39-4D08-A026-6842C2443285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80157237-FA39-4D08-A026-6842C2443285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80157237-FA39-4D08-A026-6842C2443285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80EE15AD-82E0-4823-AE53-4765C4FA8FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EE15AD-82E0-4823-AE53-4765C4FA8FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EE15AD-82E0-4823-AE53-4765C4FA8FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EE15AD-82E0-4823-AE53-4765C4FA8FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62EE2F8D-3640-4283-8479-8C61145A30B6}
+	EndGlobalSection
+EndGlobal
